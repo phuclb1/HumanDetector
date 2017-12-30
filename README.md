@@ -1,2 +1,2 @@
-# HumanDetector
-Humen Detector and Tracker
+Pedestrian Detector
+This project using OpenCV and Dlib to detect person object and tracking
